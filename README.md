@@ -2,5 +2,5 @@
 
 Setting up a Hugo site
 
-https://github.com/roblogic/hugobook
+https://roblogic.github.io/hugobook/
 
