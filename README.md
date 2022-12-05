@@ -10,3 +10,5 @@ Setting up a Hugo site :
  * https://gohugo.io/hosting-and-deployment/hosting-on-github/
  * https://www.mytechramblings.com/posts/create-a-website-with-hugo-and-gh/
  * https://janert.me/guides/hugo-survival-guide/
+ * https://zwbetz.com/convert-your-plain-old-html-site-to-hugo/
+
